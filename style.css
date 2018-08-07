@@ -1,0 +1,30 @@
+
+.login{
+    padding:10px 100px 10px 10px;
+    font-family: monospace;
+    display: flex;
+    justify-content:flex-end ;
+    size:200px;
+    
+}
+
+#loginbutton{
+    background-color:dodgerblue;
+    color:aliceblue;
+    text-shadow: white;
+    width:50px;
+    height: :500px;
+}
+
+hr{
+    box-shadow: auto;
+}
+.imagenav{
+    
+    background-color: grey;
+    background-blend-mode: soft-light;
+
+}
+div .a{
+    color: aliceblue;
+}
